@@ -21,7 +21,7 @@ If you decided to use Bootstrap in several places of your site but including Boo
 </ol>
 
 ```html
-<div class="bootstrap">
+<div class="bootstrap-iso">
     <!-- Bootstrap works only here-->
 </div>
 ```
